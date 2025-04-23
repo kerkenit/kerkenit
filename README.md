@@ -94,7 +94,6 @@ else :
 endif;
 printf('Today I had %1$d joyful activities which consist of %2$s', count($activity), implode(', ', $activity));
 ?>
-?>
 ```
   
 ---  
