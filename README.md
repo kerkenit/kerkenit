@@ -7,27 +7,27 @@
 </h1>
 
 <p align="center">
-	<a href="https://www.facebook.com/KerkEnIt/" title="Follow me on Facebook" style="text-decoration:none;">
-		<img src="./facebook.png" alt="Facebook" height="50" width="50" />
-	</a>
-	<a href="https://www.instagram.com/kerk.en.it/" title="Follow me on Instagram" style="text-decoration:none;">
-		<img src="./instagram.png" alt="Instagram" height="50" width="50" />
-	</a>
-	<a href="https://threads.net/@kerk.en.it" title="Follow me on Threads" style="text-decoration:none;">
-		<img src="./threads.png" alt="Threads" height="50" width="50" />
-	</a>
-	<a href="https://twitter.com/kerkenit" title="Follow me on Twitter" style="text-decoration:none;">
-		<img src="./twitter.png" alt="X" height="50" width="50" />
-	</a>
-	<a href="https://www.youtube.com/@kerkenit" title="Follow me on YouTube" style="text-decoration:none;">
-		<img src="./youtube.png" alt="YouTube" height="50" width="50" />
-	</a>
-	<a href="https://www.linkedin.com/company/kerk-en-it/" title="Follow me on LinkedIn" style="text-decoration:none;">
-		<img src="./linkedin.png" alt="LinkedIn" height="50" width="50" />
-	</a>
-	<a href="https://www.kerkenit.nl/" title="Visit my website" style="text-decoration:none;">
-		<img src="./internet.png" alt="Website" height="50" width="50" />
-	</a>
+    <a href="https://www.facebook.com/KerkEnIt/" title="Follow me on Facebook" style="text-decoration:none;">
+        <img src="./facebook.png" alt="Facebook" height="50" width="50" />
+    </a>
+    <a href="https://www.instagram.com/kerk.en.it/" title="Follow me on Instagram" style="text-decoration:none;">
+        <img src="./instagram.png" alt="Instagram" height="50" width="50" />
+    </a>
+    <a href="https://threads.net/@kerk.en.it" title="Follow me on Threads" style="text-decoration:none;">
+        <img src="./threads.png" alt="Threads" height="50" width="50" />
+    </a>
+    <a href="https://twitter.com/kerkenit" title="Follow me on Twitter" style="text-decoration:none;">
+        <img src="./twitter.png" alt="X" height="50" width="50" />
+    </a>
+    <a href="https://www.youtube.com/@kerkenit" title="Follow me on YouTube" style="text-decoration:none;">
+        <img src="./youtube.png" alt="YouTube" height="50" width="50" />
+    </a>
+    <a href="https://www.linkedin.com/company/kerk-en-it/" title="Follow me on LinkedIn" style="text-decoration:none;">
+        <img src="./linkedin.png" alt="LinkedIn" height="50" width="50" />
+    </a>
+    <a href="https://www.kerkenit.nl/" title="Visit my website" style="text-decoration:none;">
+        <img src="./internet.png" alt="Website" height="50" width="50" />
+    </a>
 </p>
 
 ---
@@ -41,29 +41,29 @@ current_job: Self employed
 company: Kerk en IT
 
 fields_of_interests:
-	[
-		"Roman Catholic Church",
-		"Panama",
-		"Web Development",
-		"App development",
-		"Home Automation",
-		"Apple",
-	]
+    [
+        "Roman Catholic Church",
+        "Panama",
+        "Web Development",
+        "App development",
+        "Home Automation",
+        "Apple",
+    ]
 technical_background:
-	[
-		"Full Stack Developer"
-		"Intern - App Development",
-		"Intern - Apple Hardware reperation",
-		"Intern - PC Construction",
-	]
-	
+    [
+        "Full Stack Developer"
+        "Intern - App Development",
+        "Intern - Apple Hardware reperation",
+        "Intern - PC Construction",
+    ]
+    
 currently_learning: [ "Angualar", "LLM models" ]
 hobbies:
-	[
-		"Photographing",
-		"Photo and Video editing",
-		"Blogging"
-	]
+    [
+        "Photographing",
+        "Photo and Video editing",
+        "Blogging"
+    ]
 ```
   
 ---  
